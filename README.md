@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Sobre mí
 
-Soy desarrollador con experiencia en el desarrollo de aplicaciones web y móviles utilizando tecnologías como **NestJS, Angular, Ionic, Java y Node.js**. Llevo aproximadamente **2 años** en el mundo del desarrollo de software.
+Soy desarrollador con experiencia en el desarrollo de aplicaciones web y móviles utilizando tecnologías. Llevo aproximadamente **2 años** en el mundo del desarrollo de software.
 
-Antes de comenzar en la programación, estudié y trabajé en el área de la psicología durante 3 años. Esta experiencia me permitió desarrollar habilidades clave para trabajar bien en equipo y comprender mejor las necesidades de las personas.
+Estudié y trabajé en el área de la psicología durante 3 años. Esta experiencia me permitió desarrollar habilidades clave para trabajar bien en equipo y comprender mejor las necesidades de las personas.
 
 Me motiva poder desarrollarme tanto técnicamente como en el ámbito personal, y superar los diferentes desafíos que presenta el mundo de la programación.
 
