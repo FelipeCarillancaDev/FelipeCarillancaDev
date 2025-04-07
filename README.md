@@ -48,7 +48,7 @@ Me motiva poder desarrollarme tanto técnicamente como en el ámbito personal, y
 Creo que la **paciencia**, la **perseverancia** y el **compromiso** son los pilares que me han permitido avanzar, no solo en lo profesional, sino también en lo personal. Estos valores me ayudan a mantenerme firme frente a los desafíos, aprender de mis errores y seguir creciendo cada día.
 
 
-### 🎸 Otros intereses
+#### 🎸 Otros intereses
 
 Además de la programación, me encanta la música 🎶, en especial tocar guitarra 🎸, y disfrutar de buenas películas 🍿. Siempre estoy explorando nuevas herramientas y buscando mejorar mis habilidades cada día.
 
