@@ -53,14 +53,6 @@ Creo que la **paciencia**, la **perseverancia** y el **compromiso** son los pila
 Además de la programación, me encanta la música 🎶, en especial tocar guitarra 🎸, y disfrutar de buenas películas 🍿. Siempre estoy explorando nuevas herramientas y buscando mejorar mis habilidades cada día.
 
 ---
-
-### 📫 ¿Dónde encontrarme?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-carillanca-oyarzun-745980b7/)
-- 📧 Email: [felipe.carillanca@gmail.com](mailto:felipe.carillanca@gmail.com)
-
----
-
 ### 🚀 Objetivos actuales
 
 Mi objetivo es seguir creciendo como desarrollador, sentirme más cómodo en mi trabajo y mejorar mis habilidades tanto técnicas como blandas. Busco seguir avanzando en el mundo de la programación, explorando nuevas herramientas y tecnologías para mejorar mi desempeño profesional.
@@ -68,5 +60,12 @@ Mi objetivo es seguir creciendo como desarrollador, sentirme más cómodo en mi 
 - Seguir creciendo como **Backend Developer**.
 - Participar en proyectos.
 - Aprender más sobre **DevOps** y despliegue en la nube (AWS, Docker, CI/CD).
+
+---
+
+- ### 📫 ¿Dónde encontrarme?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-carillanca-oyarzun-745980b7/)
+- 📧 Email: [felipe.carillanca@gmail.com](mailto:felipe.carillanca@gmail.com)
 
 ---
