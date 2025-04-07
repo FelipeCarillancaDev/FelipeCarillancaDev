@@ -36,21 +36,20 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Sobre mí
 
-Soy desarrollador con experiencia en el desarrollo de aplicaciones web y móviles utilizando tecnologías. Llevo aproximadamente **2 años** en el mundo del desarrollo de software.
+Soy desarrollador con 2 años de experiencia en aplicaciones web y móviles. 
+Vengo del mundo de la psicología, lo que me ha dado herramientas para trabajar en equipo y entender mejor a las personas.
 
-Estudié y trabajé en el área de la psicología durante 3 años. Esta experiencia me permitió desarrollar habilidades clave para trabajar bien en equipo y comprender mejor las necesidades de las personas.
-
-Me motiva poder desarrollarme tanto técnicamente como en el ámbito personal, y superar los diferentes desafíos que presenta el mundo de la programación.
+Me gusta crecer técnica y personalmente, y enfrentar nuevos desafíos.
 
 
 #### 🧠 Valores personales
 
-Creo que la **paciencia**, la **perseverancia** y el **compromiso** son los pilares que me han permitido avanzar, no solo en lo profesional, sino también en lo personal. Estos valores me ayudan a mantenerme firme frente a los desafíos, aprender de mis errores y seguir creciendo cada día.
-
+Paciencia, perseverancia y compromiso son mis pilares para seguir aprendiendo y avanzando.
 
 #### 🎸 Otros intereses
 
-Además de la programación, me encanta la música 🎶, en especial tocar guitarra 🎸, y disfrutar de buenas películas 🍿. Siempre estoy explorando nuevas herramientas y buscando mejorar mis habilidades cada día.
+Disfruto de la música, especialmente tocar guitarra 🎸 y ver buenas películas🍿 (thriller, épicas, etc). 
+Siempre estoy explorando nuevas herramientas.
 
 ---
 ### 🚀 Objetivos actuales
