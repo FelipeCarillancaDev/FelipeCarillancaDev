@@ -48,13 +48,13 @@ Paciencia, perseverancia y compromiso son mis pilares para seguir aprendiendo y 
 
 #### 🎸 Otros intereses
 
-Disfruto de la música, especialmente tocar guitarra 🎸 y ver buenas películas🍿 (thriller, épicas, etc). 
+Disfruto de la música, especialmente tocar guitarra 🎸 y ver buenas películas🍿(thriller, épicas, etc). 
 Siempre estoy explorando nuevas herramientas.
 
 ---
 ### 🚀 Objetivos actuales
 
-**Mi objetivo es seguir creciendo como desarrollador, fortaleciendo mis habilidades técnicas y blandas, y explorando nuevas herramientas que mejoren mi desempeño profesional.**
+**Seguir creciendo como desarrollador, fortaleciendo mis habilidades técnicas y blandas, y explorando nuevas herramientas que mejoren mi desempeño profesional.**
 
 ---
 
