@@ -36,11 +36,9 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 Sobre mí
 
-Soy desarrollador con 2 años de experiencia en aplicaciones web y móviles. 
+Soy desarrollador con 2 años de experiencia en **frontend** y **backend**, creando y manteniendo aplicaciones.
 Vengo del mundo de la psicología, lo que me ha dado herramientas para trabajar en equipo y entender mejor a las personas.
-
 Me gusta crecer técnica y personalmente, y enfrentar nuevos desafíos.
-
 
 #### 🧠 Valores personales
 
