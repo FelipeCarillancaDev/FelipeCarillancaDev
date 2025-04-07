@@ -54,11 +54,7 @@ Siempre estoy explorando nuevas herramientas.
 ---
 ### 🚀 Objetivos actuales
 
-Mi objetivo es seguir creciendo como desarrollador, sentirme más cómodo en mi trabajo y mejorar mis habilidades tanto técnicas como blandas. Busco seguir avanzando en el mundo de la programación, explorando nuevas herramientas y tecnologías para mejorar mi desempeño profesional.
-
-- Seguir creciendo como **Backend Developer**.
-- Participar en proyectos.
-- Aprender más sobre **DevOps** y despliegue en la nube (AWS, Docker, CI/CD).
+**Mi objetivo es seguir creciendo como desarrollador, fortaleciendo mis habilidades técnicas y blandas, y explorando nuevas herramientas que mejoren mi desempeño profesional.**
 
 ---
 
