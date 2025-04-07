@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 
----
 
 ### 👨‍💻 Sobre mí
 
@@ -43,13 +42,11 @@ Estudié y trabajé en el área de la psicología durante 3 años. Esta experien
 
 Me motiva poder desarrollarme tanto técnicamente como en el ámbito personal, y superar los diferentes desafíos que presenta el mundo de la programación.
 
----
 
 #### 🧠 Valores personales
 
 Creo que la **paciencia**, la **perseverancia** y el **compromiso** son los pilares que me han permitido avanzar, no solo en lo profesional, sino también en lo personal. Estos valores me ayudan a mantenerme firme frente a los desafíos, aprender de mis errores y seguir creciendo cada día.
 
----
 
 ### 🎸 Otros intereses
 
